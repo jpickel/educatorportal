@@ -1,1 +1,1 @@
-# educatorportal
+# AOPS Educator Portal
